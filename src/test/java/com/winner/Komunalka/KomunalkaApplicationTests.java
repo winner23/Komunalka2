@@ -11,8 +11,8 @@ public class KomunalkaApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		KomunalkaApplication app = new KomunalkaApplication();
-		app.main(null);
+		
+		KomunalkaApplication.main(null);
 	}
 
 }

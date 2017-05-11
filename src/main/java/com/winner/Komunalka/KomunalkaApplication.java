@@ -11,7 +11,7 @@ public class KomunalkaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(KomunalkaApplication.class, args);
 		
-		Hello hello = new Hello();
+		new Hello();
 		
 		
 	}
